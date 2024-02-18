@@ -1,0 +1,113 @@
+.navbar-nav{
+    margin-left: 800px;
+    color:blue;
+}
+#carousel{
+    width:500px;
+    height:400px;
+    margin-top: 40px;
+    border-radius:15px;
+    float: right;
+    display: inline-block;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.content{
+    width:500px;
+    margin-top: 40px;
+    height: 400px;
+    display: inline-block;
+    padding-top: 100px;
+}
+button:hover{
+    background-color: mediumseagreen ;
+}
+.caards{
+    wdth: 800px;
+    eight:200px;
+    margin-top: 70px;
+    margin-left: 50px;
+    border:none;
+    display: flexbox;
+    
+}
+body {
+    font-family: 'Arial', sans-serif;
+    background-color:white;
+    margin: 0;
+    padding: 0;
+}
+
+.why-choose-section {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    color: #555;
+    line-height: 1.6;
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+
+.reason {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+#one{
+    line-height:1.0;
+}
+header {
+    background-color:tomato;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+section {
+    margin: 20px;
+}
+
+.insurance-plan {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 20px;
+    background-color: #fff;
+}
+
+.plan-header {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+.plan-details {
+    padding: 20px;
+}
+
+.plan-details p {
+    margin-bottom: 10px;
+}
+footer {
+    background-color: #333;
+    color:white;
+    text-align: center;
+    padding: 1em;
+    
+    bottom: 0;
+    width: 100%;
+}
